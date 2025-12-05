@@ -264,9 +264,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Your Name - [@me__arnab](https://www.instagram.com/me__arnab/)
 
-Project Link: [https://github.com/yourusername/arduino-rc-car](https://github.com/yourusername/arduino-rc-car)
+Project Link: [https://github.com/wow-arnab/RC_Car](https://github.com/wow-arnab/RC_Car)
 
 ---
 
